@@ -53,7 +53,7 @@ header li a{
 /**************image principale**************************/
 #imageprincipale{
 	padding-top: 60px;
-	background: url(image/principale.png) no-repeat fixed 100% 100% ;
+	background: url(principale.png) no-repeat fixed 100% 100% ;
 	background-size: cover;
 	height: 799px;
 
@@ -129,16 +129,16 @@ transition: 0.6s ease-in-out;
 
 }
 #batbout{
-	background: url(image/capture5.png);
+	background: url(capture5.png);
 }
 #soufles{
-	background: url(image/souf.png);
+	background: url(souf.png);
 }
 #coca{
-	background: url(image/coc.png);
+	background: url(coc.png);
 }
 #pizza{
-	background: url(image/piz2.png);
+	background: url(piz2.png);
 }
 #tourisme li{
 	margin: 65px 100px 0 100px;
